@@ -1,0 +1,52 @@
+.homeBoxStyle {
+    flex-grow: 1 !important;
+    background-color: #2a3e52 !important;
+    min-height: 100vh !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  .homePaperStyle {
+    max-width: 800px; 
+    background-color: #394b59 !important; 
+    padding:20px; 
+    border-radius:3px;
+  }
+
+  .avatarStyle{
+    width: 250px !important;
+    height: 250px !important;
+     margin-Top:40px !important;
+  }
+  .avatarGridStyle{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.introstyle {
+  color: #90caf9 !important;
+  text-align: center !important;
+  font-Weight: bold !important;
+}
+
+.namestyle {
+  text-align: center !important;
+  font-Weight: bold !important;
+}
+.positionStyle{
+  text-Align: center !important;
+  margin:10px 0 !important;
+  font-Weight: bold !important;
+  font-family: Arial, sans-serif !important;
+
+}
+.buttonStyle{
+  border-Color: #90caf9 !important;
+   color: #90caf9 !important;
+  
+}
+.captionStyle{
+  margin-Bottom: 20px !important;
+   text-Align: center !important;
+}
